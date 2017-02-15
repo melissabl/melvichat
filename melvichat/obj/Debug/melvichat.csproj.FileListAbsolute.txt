@@ -1,0 +1,10 @@
+D:\sistema\melvichat\melvichat\obj\Debug\melvichat.csprojResolveAssemblyReference.cache
+D:\sistema\melvichat\melvichat\bin\melvichat.dll
+D:\sistema\melvichat\melvichat\bin\melvichat.pdb
+D:\sistema\melvichat\melvichat\obj\Debug\melvichat.dll
+D:\sistema\melvichat\melvichat\obj\Debug\melvichat.pdb
+F:\sistema\sistema\melvichat\melvichat\bin\melvichat.dll
+F:\sistema\sistema\melvichat\melvichat\bin\melvichat.pdb
+F:\sistema\sistema\melvichat\melvichat\obj\Debug\melvichat.csprojResolveAssemblyReference.cache
+F:\sistema\sistema\melvichat\melvichat\obj\Debug\melvichat.dll
+F:\sistema\sistema\melvichat\melvichat\obj\Debug\melvichat.pdb

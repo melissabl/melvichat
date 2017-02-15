@@ -1,0 +1,17 @@
+﻿#cadastro {
+    top:-2%;
+    position:fixed;
+    height:728px;
+    width:436px;
+    background-color:aliceblue;
+    font-family:'Georgia';
+    font-size:20px;
+}
+
+/*#textocadastro {
+    top:-2%;
+    font-size:40px;
+    position:fixed;
+    font-family:'Georgia';
+}
+*/
